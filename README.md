@@ -5,7 +5,7 @@
 
 ## Welcome! 👋
 
-In this repository I keep a compilation of small projects and challenges that I am doing.
+En este repositorio estarán recopilados los challenges y katas que voy haciendo para poner en practica mis skills en frontend.
 
 
 
@@ -19,10 +19,42 @@ In this repository I keep a compilation of small projects and challenges that I 
 - [Author](#author)
 
 
+### Tip calculator app
+Mi solución para el challenge de [Frontend Mentor](https://www.frontendmentor.io/).
+Crea una aplicación para calcular el importe de la propina y el coste de la cuenta por persona.
+Practica DOM.
+
+[Demo](lupemorales.github.io/tip-calculator-app/)
+[Code](https://github.com/lupeMorales/tip-calculator-app)
 
 ### Words-counter
-![Demo](https://lupemorales.github.io/word-counter/)
-![Code](https://github.com/lupeMorales/word-counter)
+Crea una pequeña aplicación para contar en tiempo real las palabras que vas escribiendo.
+Práctica DOM.
+
+[Demo](https://lupemorales.github.io/word-counter/)
+[Code](https://github.com/lupeMorales/word-counter)
+
+### Random-color  generator
+Pulsa el botón y genera de forma automática y aleatoria un color.
+Práctica DOM.Math()
+
+[Demo](https://github.com/lupeMorales/random-color-generator)
+[Code](https://github.com/lupeMorales/random-color-generator)
+
+### 404 not found
+Mi solución para el challenge de [DevChallenges](https://devchallenges.io/).
+Pon en practicas tus skills en CSS maquetando esta página 404.
+
+[Demo](https://lupemorales.github.io/404-not-found/)
+[Code](https://github.com/lupeMorales/404-not-found)
+
+### My gallery
+Mi solución para el challenge de [DevChallenges](https://devchallenges.io/).
+Crea una página estática poniendo en practicas tus habilidades con grid layout.
+
+[Demo](https://lupemorales.github.io/my-gallery/)
+[Code](https://github.com/lupeMorales/my-gallery)
+
 
 ### Links
 
@@ -34,6 +66,7 @@ In this repository I keep a compilation of small projects and challenges that I 
 
 - [Frontend Mentor](https://www.frontendmentor.io/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 - [DevChallenges](https://devchallenges.io/) - This is an amazing web offer you diferents projects to practise your skills.
+- [Grid Layout]
 
 
 ## Author
