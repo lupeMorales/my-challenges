@@ -12,10 +12,11 @@ En este repositorio estarán recopilados los challenges y katas que voy haciendo
 ## Table of contents
 
 - [Words Counter](#words-counter)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Built with](#built-with)
+- [Tip calculator app](#tip-calculator-app) 
+- [Random-color  generator](#random-color-generator) 
+- [404 not found](#404-not-found)
+- [My gallery](#my-gallery)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -56,25 +57,17 @@ Crea una página estática poniendo en practicas tus habilidades con grid layout
 [Code](https://github.com/lupeMorales/my-gallery)
 
 
-### Links
-
-- Solution URL: [Code](https://github.com/lupeMorales/tip-calculator-app)
-- Live Site URL: [Demo](https://lupemorales.github.io/tip-calculator-app/)
-
 
 ### Useful resources
 
-- [Frontend Mentor](https://www.frontendmentor.io/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-- [DevChallenges](https://devchallenges.io/) - This is an amazing web offer you diferents projects to practise your skills.
-- [Grid Layout]
+- [Frontend Mentor](https://www.frontendmentor.io/). Frontend Mentor me ayuda a mejor como desarrolladora practicando con proyectos reales.
+- [DevChallenges](https://devchallenges.io/) - Esta web es sensacional. Ofrece distintas rutas de aprendizaje (responsive desig, frontend, full stack) para practicar nuestras habilidades como desarrollador.
+- [Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
 ## Author
 
 - Website - [My portfolio web](https://lupemorales.github.io/portfolio/)
 - Linkedin - [@LupeMorales](https://www.linkedin.com/in/lupe-morales/)
-
-
-
 
 **Have fun coding!** 🚀
