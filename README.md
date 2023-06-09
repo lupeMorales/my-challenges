@@ -55,7 +55,7 @@ Mi solución para el challenge de [DevChallenges](https://devchallenges.io/).
 Crea una página estática poniendo en practicas tus habilidades con grid layout.
 Diseño responsivo
 
-[Demo](https://lupemorales.github.io/my-gallery/)   <span> | </span>  
+[Demo](https://lupemorales.github.io/my-gallery/) <span> | </span>  
 [Code](https://github.com/lupeMorales/my-gallery)
 
 
