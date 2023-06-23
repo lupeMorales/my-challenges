@@ -13,6 +13,7 @@ En este repositorio estarán recopilados los challenges y katas que voy haciendo
 - [Proyectos](#proyectos)
   - [Words Counter](#words-counter) Manipulación del DOM
   - [Tip calculator app](#tip-calculator-app) Manipulación del DOM
+  - [Age calculator app](#age-calculator-app) Fechas y validación de formularios
   - [Random-color generator](#random-color-generator) Manipulación del DOM
   - [404 not found](#404-not-found) Maquetación web
   - [My gallery](#my-gallery) Maquetación web.GridLayout
@@ -20,6 +21,14 @@ En este repositorio estarán recopilados los challenges y katas que voy haciendo
 - [Contacto](#contacto)
 
 ## Proyectos
+
+### Words-counter
+Crea una pequeña aplicación para contar en tiempo real las palabras que vas escribiendo.
+Práctica DOM.
+
+[Demo](https://lupemorales.github.io/word-counter/)  <span> | </span> 
+[Code](https://github.com/lupeMorales/word-counter)
+
 ### Tip calculator app 
 Mi solución para el challenge de [Frontend Mentor](https://www.frontendmentor.io/).
 Crea una aplicación para calcular el importe de la propina y el coste de la cuenta por persona.
@@ -28,12 +37,14 @@ Práctica DOM.
 [Demo](lupemorales.github.io/tip-calculator-app/)  <span> | </span> 
 [Code](https://github.com/lupeMorales/tip-calculator-app)
 
-### Words-counter
-Crea una pequeña aplicación para contar en tiempo real las palabras que vas escribiendo.
-Práctica DOM.
+### Age calculator app 
+Mi solución para el challenge de [Frontend Mentor](https://www.frontendmentor.io/).
+Crea una aplicación para calcular tu edad exacta en años, meses y días. Un buen ejercicio para practicar fechas y validadión de formularios.
 
-[Demo](https://lupemorales.github.io/word-counter/)  <span> | </span> 
-[Code](https://github.com/lupeMorales/word-counter)
+[Demo](https://lupemorales.github.io/age-calculator-app/)  <span> | </span> 
+[Code](https://github.com/lupeMorales/age-calculator-app)
+
+
 
 ### Random-color  generator
 Pulsa el botón y genera de forma automática y aleatoria un color.
