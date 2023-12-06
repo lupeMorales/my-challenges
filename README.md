@@ -74,7 +74,7 @@ Diseño responsivo
 Proyecto sencillo para desarrolladores que empiezan. Crea un generador de códigos QR ayudándote de una librería externa.
 Puedes usar QRCodeJS
 
-[Demo](href="https://lupemorales.github.io/generador-qr-js/) <span> | </span>  
+[Demo](https://lupemorales.github.io/generador-qr-js/) <span> | </span>  
 [Code](https://github.com/lupeMorales/generador-qr-js)
 
 
