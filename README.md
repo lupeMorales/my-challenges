@@ -17,6 +17,7 @@ En este repositorio estarán recopilados los challenges y katas que voy haciendo
   - [Random-color generator](#random-color-generator) Manipulación del DOM
   - [404 not found](#404-not-found) Maquetación web
   - [My gallery](#my-gallery) Maquetación web.GridLayout
+  - [QRCode Generator](#generador-qr-js) Uso de librerías externas.
 - [Recursos](#recursos)
 - [Contacto](#contacto)
 
@@ -68,6 +69,13 @@ Diseño responsivo
 
 [Demo](https://lupemorales.github.io/my-gallery/) <span> | </span>  
 [Code](https://github.com/lupeMorales/my-gallery)
+
+### QRCode Generator
+Proyecto sencillo para desarrolladores que empiezan. Crea un generador de códigos QR ayudándote de una librería externa.
+Puedes usar QRCodeJS
+
+[Demo](href="https://lupemorales.github.io/generador-qr-js/) <span> | </span>  
+[Code](https://github.com/lupeMorales/generador-qr-js)
 
 
 
